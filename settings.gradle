@@ -15,3 +15,5 @@ getLocalProperties().entrySet().each { entry ->
         }
     }
 }
+include ":apt"
+include ":router"
